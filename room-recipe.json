@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "title": "ひだまりの小さな展示室",
+  "author": "さくら",
+  "description": "はじめてGitHubでつくったお部屋です。ゆっくりしていってください。",
+  "theme": "daybreak",
+  "status": "draft",
+  "works": [
+    {
+      "id": "work-print-1",
+      "kind": "print",
+      "title": "安曇野の朝焼けメモ",
+      "description": "朝のやわらかな光をイメージして飾ってみました。",
+      "motif": "daybreak"
+    }
+  ],
+  "curation": {
+    "printMount": "alcove",
+    "noteMount": "lectern",
+    "motionMount": "screen",
+    "initialNight": false,
+    "notePages": [
+      {
+        "tabLabel": "着想スケッチ",
+        "heading": "最初のひとこと",
+        "body": "工房の練習で、AI相棒と一緒に自分のお部屋を書き換えてみました。",
+        "caption": "はじめての模様替え記録"
+      },
+      {
+        "tabLabel": "色見本と素材",
+        "heading": "選んだテーマ色",
+        "body": "あたたかい曙染（daybreak）を選びました。季節に合わせて変えてみたいです。",
+        "caption": "お気に入りの色"
+      },
+      {
+        "tabLabel": "制作メモ・裏話",
+        "heading": "おすすめの眺め方",
+        "body": "AI相棒に「夜の行灯にして」と頼んで、座布団に座って眺めるのも落ち着きます。",
+        "caption": "ごゆっくりどうぞ"
+      }
+    ]
+  }
+}
