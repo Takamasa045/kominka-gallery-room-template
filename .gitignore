@@ -1,9 +1,6 @@
-# AI相棒の秘密鍵など（絶対にGitHubへ保存しない）
+# 秘密情報・一時ファイル（GitHub には上げない）
 .env
-.env.local
-.env.*.local
-
-# 依存ファイル・OSの一時ファイル
+.env.*
 node_modules/
 .DS_Store
 Thumbs.db
